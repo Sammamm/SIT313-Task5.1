@@ -1,0 +1,51 @@
+*{
+    overflow-x: hidden;
+}
+
+.queHead h3{
+    background-color: rgba(75, 202, 36, 0.274);
+    margin-top: 50px;
+}
+
+.queTitle{
+    display: flex;
+    align-items: center;
+}
+
+.queTitle input{
+    width: 100%;
+}
+
+
+.QueContainer h4{
+    padding: 20px 20px 10px 10px;
+}
+
+.queAbstract textarea{
+    width: 100%;
+    height: 100px;
+    margin-left: 20px;
+}
+
+.queArticle textarea{
+    width: 100%;
+    height: 200px;
+    margin-left: 20px;
+}
+
+.queTags{
+    display: flex;
+    align-items: center;
+}
+
+.queTags input{
+    width: 100%;
+}
+
+.post button{
+    padding: 10px 20px;
+}
+.post{
+    text-align: end;
+    cursor: pointer;
+}
